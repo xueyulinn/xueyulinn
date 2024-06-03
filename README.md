@@ -1,4 +1,7 @@
 ### Hi there 👋
-I'm Yulin Xue
-- 🌱 I’m currently learning JavaScript and Python
+
 - 👨‍🎓 I'm interested in web development
+- ⚙️ My skills include:
+  - Languages: Java, JavaScript, Python
+  - Web Technologies: HTML, CSS, React, Express
+  - Database Technologies: MongoDB, MySQL
