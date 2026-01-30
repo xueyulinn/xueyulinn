@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👨‍🎓 I'm interested in web development
+- 👨‍🎓 I'm interested in backend development
 - ⚙️ My skills include:
-  - Languages: Java, JavaScript, Python
-  - Web Technologies: HTML, CSS, React, Express
-  - Database Technologies: MongoDB, MySQL
+  - Languages: Java, Python, Golang, JavaScript, HTML/CSS, SQL
+  - Frameworks: React, Express, Spring Framework
+  - Tools: Kafka, Docker, Kubernetes, Terraform
+  - Database Technologies: PostgreSQL, MongoDB, MySQL
